@@ -1,0 +1,15 @@
+C:\Users\djang\source\repos\classs\classs\bin\Debug\net7.0\classs.exe
+C:\Users\djang\source\repos\classs\classs\bin\Debug\net7.0\classs.deps.json
+C:\Users\djang\source\repos\classs\classs\bin\Debug\net7.0\classs.runtimeconfig.json
+C:\Users\djang\source\repos\classs\classs\bin\Debug\net7.0\classs.dll
+C:\Users\djang\source\repos\classs\classs\bin\Debug\net7.0\classs.pdb
+C:\Users\djang\source\repos\classs\classs\obj\Debug\net7.0\classs.csproj.AssemblyReference.cache
+C:\Users\djang\source\repos\classs\classs\obj\Debug\net7.0\classs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djang\source\repos\classs\classs\obj\Debug\net7.0\classs.AssemblyInfoInputs.cache
+C:\Users\djang\source\repos\classs\classs\obj\Debug\net7.0\classs.AssemblyInfo.cs
+C:\Users\djang\source\repos\classs\classs\obj\Debug\net7.0\classs.csproj.CoreCompileInputs.cache
+C:\Users\djang\source\repos\classs\classs\obj\Debug\net7.0\classs.dll
+C:\Users\djang\source\repos\classs\classs\obj\Debug\net7.0\refint\classs.dll
+C:\Users\djang\source\repos\classs\classs\obj\Debug\net7.0\classs.pdb
+C:\Users\djang\source\repos\classs\classs\obj\Debug\net7.0\classs.genruntimeconfig.cache
+C:\Users\djang\source\repos\classs\classs\obj\Debug\net7.0\ref\classs.dll
